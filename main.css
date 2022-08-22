@@ -23,6 +23,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
+  max-width: 1400px;
 }
 
 .card {
